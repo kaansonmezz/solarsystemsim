@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsolar_core.a CMakeFiles/solar_core.dir/src/core/FileSystem.cpp.o CMakeFiles/solar_core.dir/src/core/Logger.cpp.o CMakeFiles/solar_core.dir/src/core/Time.cpp.o CMakeFiles/solar_core.dir/src/simulation/SimulationClock.cpp.o
+/usr/bin/ranlib libsolar_core.a

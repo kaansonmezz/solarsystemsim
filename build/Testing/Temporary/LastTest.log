@@ -1,0 +1,58 @@
+Start testing: Aug 15 01:12 +03
+----------------------------------------------------------
+1/1 Testing: solar_tests
+1/1 Test: solar_tests
+Command: "/home/garth/solar/build/solar_tests"
+Directory: /home/garth/solar/build
+"solar_tests" start time: Aug 15 01:12 +03
+Output:
+----------------------------------------------------------
+Randomness seeded to: 546860839
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:11] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:11] [error] SPICE: Kernel file does not exist: /home/garth/solar/assets/kernels/missing.bsp
+[01:12:11] [info] SPICE kernel loaded: naif0012.tls
+[01:12:11] [info] SPICE kernel loaded: de442s.bsp
+[01:12:12] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:12] [error] SPICE: querying state for target 123456789 relative to 10: Insufficient ephemeris data has been loaded to compute the state of 123456789 relative to 10 (SUN) at the ephemeris epoch 2030 JAN 01 00:01:09.183.
+[01:12:12] [info] SPICE kernel loaded: naif0012.tls
+[01:12:12] [info] SPICE kernel loaded: de442s.bsp
+[01:12:12] [info] SPICE kernel loaded: pck00011.tpc
+[01:12:12] [error] SPICE: querying state for target 399 relative to 10: Insufficient ephemeris data has been loaded to compute the state of 399 (EARTH) relative to 10 (SUN) at the ephemeris epoch 1800 JAN 01 00:00:41.184.
+===============================================================================
+All tests passed (917 assertions in 95 test cases)
+
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"solar_tests" end time: Aug 15 01:12 +03
+"solar_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 15 01:12 +03

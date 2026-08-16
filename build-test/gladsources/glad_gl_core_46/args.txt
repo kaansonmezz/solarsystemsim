@@ -1,0 +1,1 @@
+--out-path /home/garth/solar/build-test/gladsources/glad_gl_core_46 --api gl:core=4.6 --reproducible c --loader

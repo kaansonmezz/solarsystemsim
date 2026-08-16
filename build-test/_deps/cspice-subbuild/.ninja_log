@@ -1,0 +1,21 @@
+# ninja log v7
+0	14	1786746195919184583	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-mkdir	580198781effc80b
+0	14	1786746195919184583	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-mkdir	580198781effc80b
+14	77422	1786746273327186945	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-download	24d2de79e507fc7f
+14	77422	1786746273327186945	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-download	24d2de79e507fc7f
+77422	77436	1786746273341186945	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-update	9899504ae0ca21be
+77422	77436	1786746273341186945	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-update	9899504ae0ca21be
+77436	77448	1786746273353186946	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-patch	37eeaf5e70e612ca
+77436	77448	1786746273353186946	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-patch	37eeaf5e70e612ca
+77448	77461	1786746273366186946	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-configure	377752215b35da5a
+77448	77461	1786746273366186946	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-configure	377752215b35da5a
+77461	77476	1786746273380186947	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-build	398b9a143eccb31e
+77461	77476	1786746273380186947	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-build	398b9a143eccb31e
+77476	77490	1786746273394186947	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-install	d624a6052e3ecc90
+77476	77490	1786746273394186947	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-install	d624a6052e3ecc90
+77490	77503	1786746273407186947	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-test	f4b78367c4535ff4
+77490	77503	1786746273407186947	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-test	f4b78367c4535ff4
+77503	77521	1786746273426186948	CMakeFiles/cspice-populate-complete	5ce0916153e81434
+77503	77521	1786746273426186948	cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-done	5ce0916153e81434
+77503	77521	1786746273426186948	/home/garth/solar/build-test/_deps/cspice-subbuild/CMakeFiles/cspice-populate-complete	5ce0916153e81434
+77503	77521	1786746273426186948	/home/garth/solar/build-test/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-done	5ce0916153e81434

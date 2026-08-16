@@ -1,0 +1,21 @@
+# ninja log v7
+0	14	1786746191571184450	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	18ce592b4c24fe0c
+0	14	1786746191571184450	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	18ce592b4c24fe0c
+14	4130	1786746195687184576	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	24befcf43c028756
+14	4130	1786746195687184576	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	24befcf43c028756
+4130	4142	1786746195688184576	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	befca7c8bbd56809
+4130	4142	1786746195688184576	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	befca7c8bbd56809
+4142	4157	1786746195714184576	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	346dee468addf1c9
+4142	4157	1786746195714184576	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	346dee468addf1c9
+4157	4167	1786746195724184577	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	8d772a7bc7e933c6
+4157	4167	1786746195724184577	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	8d772a7bc7e933c6
+4167	4182	1786746195739184577	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	8b3fc62dc763dc42
+4167	4182	1786746195739184577	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	8b3fc62dc763dc42
+4182	4194	1786746195751184577	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	ebb9472392cc8938
+4182	4194	1786746195751184577	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	ebb9472392cc8938
+4194	4205	1786746195762184578	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	9239d328ebcf77d0
+4194	4205	1786746195762184578	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	9239d328ebcf77d0
+4205	4221	1786746195779184578	CMakeFiles/catch2-populate-complete	12390e32e6b31b46
+4205	4221	1786746195779184578	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	12390e32e6b31b46
+4205	4221	1786746195779184578	/home/garth/solar/build-test/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	12390e32e6b31b46
+4205	4221	1786746195779184578	/home/garth/solar/build-test/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	12390e32e6b31b46

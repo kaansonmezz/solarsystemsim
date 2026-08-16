@@ -1,0 +1,21 @@
+# ninja log v7
+0	16	1786746177947184034	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	b54503ccf4d717ed
+0	16	1786746177947184034	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	b54503ccf4d717ed
+16	11170	1786746189101184375	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	8bedfbdd36953739
+16	11170	1786746189101184375	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	8bedfbdd36953739
+11170	11185	1786746189102184375	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	50bccc36b9e678d6
+11170	11185	1786746189102184375	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	50bccc36b9e678d6
+11185	11198	1786746189129184375	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	5775ed240a50c05b
+11185	11198	1786746189129184375	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	5775ed240a50c05b
+11198	11208	1786746189140184376	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	15897543eba8a543
+11198	11208	1786746189140184376	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	15897543eba8a543
+11208	11218	1786746189150184376	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	80ed9f8bd0751c58
+11208	11218	1786746189150184376	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	80ed9f8bd0751c58
+11219	11232	1786746189163184376	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	8c69302fb7d75eef
+11219	11232	1786746189163184376	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	8c69302fb7d75eef
+11232	11241	1786746189173184377	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	c96ffb1f48b50a63
+11232	11241	1786746189173184377	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	c96ffb1f48b50a63
+11242	11261	1786746189192184377	CMakeFiles/imgui-populate-complete	87c230752c7c6297
+11242	11261	1786746189192184377	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	87c230752c7c6297
+11242	11261	1786746189192184377	/home/garth/solar/build-test/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	87c230752c7c6297
+11242	11261	1786746189192184377	/home/garth/solar/build-test/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	87c230752c7c6297

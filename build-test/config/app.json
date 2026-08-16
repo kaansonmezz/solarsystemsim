@@ -1,0 +1,22 @@
+{
+  "window": {
+    "width": 1600,
+    "height": 900,
+    "vsync": true
+  },
+  "renderer": {
+    "fov": 60.0,
+    "orbitSensitivity": 0.22
+  },
+  "astronomy": {
+    "kernelDirectory": "assets/kernels",
+    "defaultOrigin": "Sun",
+    "defaultFrame": "ECLIPJ2000"
+  },
+  "visualization": {
+    "distanceScale": 10.0,
+    "bodyRadiusScale": 100.0,
+    "showOrbits": true,
+    "showLabels": true
+  }
+}

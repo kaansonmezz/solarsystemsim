@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsolar_app_config.a CMakeFiles/solar_app_config.dir/src/app/AppConfig.cpp.o
+/usr/bin/ranlib libsolar_app_config.a

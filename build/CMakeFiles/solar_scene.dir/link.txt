@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsolar_scene.a CMakeFiles/solar_scene.dir/src/scene/RenderTransform.cpp.o CMakeFiles/solar_scene.dir/src/scene/Scene.cpp.o CMakeFiles/solar_scene.dir/src/scene/SolarSystemScene.cpp.o
+/usr/bin/ranlib libsolar_scene.a

@@ -1,0 +1,21 @@
+# ninja log v7
+0	16	1786746154316183313	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-mkdir	611d5b2bfdf4342e
+0	16	1786746154316183313	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-mkdir	611d5b2bfdf4342e
+16	23480	1786746177781184029	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-download	1b36e5043c86ce06
+16	23480	1786746177781184029	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-download	1b36e5043c86ce06
+23480	23493	1786746177781184029	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update	896a99518b44d781
+23480	23493	1786746177781184029	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update	896a99518b44d781
+23493	23507	1786746177807184030	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch	2d04ca4631bbf5aa
+23493	23507	1786746177807184030	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch	2d04ca4631bbf5aa
+23507	23520	1786746177820184030	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure	47164abfd4d1ec8f
+23507	23520	1786746177820184030	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure	47164abfd4d1ec8f
+23520	23532	1786746177832184031	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build	2789570c16af4d14
+23520	23532	1786746177832184031	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build	2789570c16af4d14
+23532	23544	1786746177845184031	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install	45ac4b7d4f0f4dfe
+23532	23544	1786746177845184031	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install	45ac4b7d4f0f4dfe
+23544	23557	1786746177857184031	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test	25058aaf337876e0
+23544	23557	1786746177857184031	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test	25058aaf337876e0
+23557	23578	1786746177879184032	CMakeFiles/nlohmann_json-populate-complete	193a996f8b5b49d7
+23557	23578	1786746177879184032	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-done	193a996f8b5b49d7
+23557	23578	1786746177879184032	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate-complete	193a996f8b5b49d7
+23557	23578	1786746177879184032	/home/garth/solar/build-test/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-done	193a996f8b5b49d7

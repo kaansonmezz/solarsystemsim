@@ -1,0 +1,21 @@
+# ninja log v7
+0	15	1786745555069165025	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	fd869064a6ecda8c
+0	15	1786745555069165025	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	fd869064a6ecda8c
+0	4836	1786746131367182613	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	4d1c64ff18b4bf18
+0	4836	1786746131367182613	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	4d1c64ff18b4bf18
+4836	4849	1786746131368182613	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	5c8c99d461e00d4f
+4836	4849	1786746131368182613	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	5c8c99d461e00d4f
+4849	4863	1786746131395182613	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	f905ce6814248c80
+4849	4863	1786746131395182613	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	f905ce6814248c80
+4863	4875	1786746131407182614	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	107b493f7996b3e5
+4863	4875	1786746131407182614	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	107b493f7996b3e5
+4875	4887	1786746131419182614	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	f34908ec083f4f4
+4875	4887	1786746131419182614	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	f34908ec083f4f4
+4887	4900	1786746131431182615	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	da1abd7c63945406
+4887	4900	1786746131431182615	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	da1abd7c63945406
+4900	4912	1786746131444182615	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	617f548eeda147e8
+4900	4912	1786746131444182615	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	617f548eeda147e8
+4912	4929	1786746131461182615	CMakeFiles/glfw-populate-complete	7555cb74e847471a
+4912	4929	1786746131461182615	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	7555cb74e847471a
+4912	4929	1786746131461182615	/home/garth/solar/build-test/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	7555cb74e847471a
+4912	4929	1786746131461182615	/home/garth/solar/build-test/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	7555cb74e847471a

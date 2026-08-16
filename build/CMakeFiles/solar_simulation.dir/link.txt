@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsolar_simulation.a CMakeFiles/solar_simulation.dir/src/simulation/OrbitVisualization.cpp.o CMakeFiles/solar_simulation.dir/src/simulation/Spacecraft.cpp.o CMakeFiles/solar_simulation.dir/src/simulation/SpacecraftState.cpp.o
+/usr/bin/ranlib libsolar_simulation.a

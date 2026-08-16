@@ -1,0 +1,21 @@
+# ninja log v7
+1	16	1786746136065182756	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	db583bf3b7e946e
+1	16	1786746136065182756	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	db583bf3b7e946e
+16	15049	1786746151098183215	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	d04cf816f6511b12
+16	15049	1786746151098183215	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	d04cf816f6511b12
+15049	15063	1786746151099183215	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	5b048c63e6f2f998
+15049	15063	1786746151099183215	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	5b048c63e6f2f998
+15063	15076	1786746151126183216	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	241bce83bee40c7c
+15063	15076	1786746151126183216	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	241bce83bee40c7c
+15076	15087	1786746151137183216	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	7c409a79d1de5a9
+15076	15087	1786746151137183216	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	7c409a79d1de5a9
+15087	15101	1786746151151183216	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	cc0709715aead53c
+15087	15101	1786746151151183216	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	cc0709715aead53c
+15101	15113	1786746151163183217	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	568266d0917db438
+15101	15113	1786746151163183217	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	568266d0917db438
+15113	15125	1786746151174183217	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	fda72da3c1c364ea
+15113	15125	1786746151174183217	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	fda72da3c1c364ea
+15125	15142	1786746151191183218	CMakeFiles/glm-populate-complete	7e82140a51055a06
+15125	15142	1786746151191183218	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	7e82140a51055a06
+15125	15142	1786746151191183218	/home/garth/solar/build-test/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	7e82140a51055a06
+15125	15142	1786746151191183218	/home/garth/solar/build-test/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	7e82140a51055a06

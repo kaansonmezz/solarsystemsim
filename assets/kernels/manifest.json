@@ -1,0 +1,9 @@
+{
+  "ephemeris": "DE442s",
+  "coverage": "1849-12-26 through 2150-01-22",
+  "kernels": [
+    "naif0012.tls",
+    "de442s.bsp",
+    "pck00011.tpc"
+  ]
+}

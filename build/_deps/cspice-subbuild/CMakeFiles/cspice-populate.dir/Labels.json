@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/CMakeFiles/cspice-populate"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/CMakeFiles/cspice-populate.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/CMakeFiles/cspice-populate-complete.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-build.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-configure.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-download.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-install.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-patch.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-test.rule"
+		},
+		{
+			"file" : "/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/cspice-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cspice-populate"
+		],
+		"name" : "cspice-populate"
+	}
+}

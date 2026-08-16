@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/garth/solar/build-test/_deps/glm-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,21 @@
+# ninja log v7
+0	13	1786746151260183220	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	d1cc5264a981cb28
+0	13	1786746151260183220	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	d1cc5264a981cb28
+14	2877	1786746154124183307	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	c37e55599cb09fcf
+14	2877	1786746154124183307	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	c37e55599cb09fcf
+2877	2888	1786746154124183307	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	d22d1e7988a9feff
+2877	2888	1786746154124183307	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	d22d1e7988a9feff
+2888	2901	1786746154147183308	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	f6ff682a1fbbd8df
+2888	2901	1786746154147183308	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	f6ff682a1fbbd8df
+2901	2913	1786746154159183308	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	b2f68732458abe47
+2901	2913	1786746154159183308	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	b2f68732458abe47
+2913	2925	1786746154171183309	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	f3f823de32332bec
+2913	2925	1786746154171183309	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	f3f823de32332bec
+2925	2937	1786746154183183309	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	d3f5cc73f80cb171
+2925	2937	1786746154183183309	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	d3f5cc73f80cb171
+2937	2949	1786746154196183309	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	574175c995316aa6
+2937	2949	1786746154196183309	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	574175c995316aa6
+2949	2968	1786746154214183310	CMakeFiles/spdlog-populate-complete	c0e9f435508ef8fd
+2949	2968	1786746154214183310	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	c0e9f435508ef8fd
+2949	2968	1786746154214183310	/home/garth/solar/build-test/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	c0e9f435508ef8fd
+2949	2968	1786746154214183310	/home/garth/solar/build-test/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	c0e9f435508ef8fd

@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/download-cspice-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/verify-cspice-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/garth/solar/build/_deps/cspice-subbuild/cspice-populate-prefix/src/cspice-populate-stamp/extract-cspice-populate.cmake
+source_dir=/home/garth/solar/build/_deps/cspice-src
+work_dir=/home/garth/solar/build/_deps
+url(s)=https://naif.jpl.nasa.gov/pub/naif/toolkit/C/PC_Linux_GCC_64bit/packages/cspice.tar.Z
+hash=SHA256=60a95b51a6472f1afe7e40d77ebdee43c12bb5b8823676ccc74692ddfede06ce
+      no_extract=
+

@@ -1,0 +1,1502 @@
+[
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/cc  -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -g -o CMakeFiles/glad_gl_core_46.dir/gladsources/glad_gl_core_46/src/gl.c.o -c /home/garth/solar/build/gladsources/glad_gl_core_46/src/gl.c",
+  "file": "/home/garth/solar/build/gladsources/glad_gl_core_46/src/gl.c",
+  "output": "CMakeFiles/glad_gl_core_46.dir/gladsources/glad_gl_core_46/src/gl.c.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui.cpp.o -c /home/garth/solar/build/_deps/imgui-src/imgui.cpp",
+  "file": "/home/garth/solar/build/_deps/imgui-src/imgui.cpp",
+  "output": "CMakeFiles/imgui.dir/_deps/imgui-src/imgui.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui_demo.cpp.o -c /home/garth/solar/build/_deps/imgui-src/imgui_demo.cpp",
+  "file": "/home/garth/solar/build/_deps/imgui-src/imgui_demo.cpp",
+  "output": "CMakeFiles/imgui.dir/_deps/imgui-src/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui_draw.cpp.o -c /home/garth/solar/build/_deps/imgui-src/imgui_draw.cpp",
+  "file": "/home/garth/solar/build/_deps/imgui-src/imgui_draw.cpp",
+  "output": "CMakeFiles/imgui.dir/_deps/imgui-src/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui_tables.cpp.o -c /home/garth/solar/build/_deps/imgui-src/imgui_tables.cpp",
+  "file": "/home/garth/solar/build/_deps/imgui-src/imgui_tables.cpp",
+  "output": "CMakeFiles/imgui.dir/_deps/imgui-src/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui_widgets.cpp.o -c /home/garth/solar/build/_deps/imgui-src/imgui_widgets.cpp",
+  "file": "/home/garth/solar/build/_deps/imgui-src/imgui_widgets.cpp",
+  "output": "CMakeFiles/imgui.dir/_deps/imgui-src/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/imgui.dir/_deps/imgui-src/backends/imgui_impl_glfw.cpp.o -c /home/garth/solar/build/_deps/imgui-src/backends/imgui_impl_glfw.cpp",
+  "file": "/home/garth/solar/build/_deps/imgui-src/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/imgui.dir/_deps/imgui-src/backends/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/imgui.dir/_deps/imgui-src/backends/imgui_impl_opengl3.cpp.o -c /home/garth/solar/build/_deps/imgui-src/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/garth/solar/build/_deps/imgui-src/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/imgui.dir/_deps/imgui-src/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/implot-src -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/implot.dir/_deps/implot-src/implot.cpp.o -c /home/garth/solar/build/_deps/implot-src/implot.cpp",
+  "file": "/home/garth/solar/build/_deps/implot-src/implot.cpp",
+  "output": "CMakeFiles/implot.dir/_deps/implot-src/implot.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -isystem /home/garth/solar/build/_deps/implot-src -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -g -std=c++20 -o CMakeFiles/implot.dir/_deps/implot-src/implot_items.cpp.o -c /home/garth/solar/build/_deps/implot-src/implot_items.cpp",
+  "file": "/home/garth/solar/build/_deps/implot-src/implot_items.cpp",
+  "output": "CMakeFiles/implot.dir/_deps/implot-src/implot_items.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_SOURCE_DIR=\\\"/home/garth/solar\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_core.dir/src/core/FileSystem.cpp.o -c /home/garth/solar/src/core/FileSystem.cpp",
+  "file": "/home/garth/solar/src/core/FileSystem.cpp",
+  "output": "CMakeFiles/solar_core.dir/src/core/FileSystem.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_SOURCE_DIR=\\\"/home/garth/solar\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_core.dir/src/core/Logger.cpp.o -c /home/garth/solar/src/core/Logger.cpp",
+  "file": "/home/garth/solar/src/core/Logger.cpp",
+  "output": "CMakeFiles/solar_core.dir/src/core/Logger.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_SOURCE_DIR=\\\"/home/garth/solar\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_core.dir/src/core/Time.cpp.o -c /home/garth/solar/src/core/Time.cpp",
+  "file": "/home/garth/solar/src/core/Time.cpp",
+  "output": "CMakeFiles/solar_core.dir/src/core/Time.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_SOURCE_DIR=\\\"/home/garth/solar\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_core.dir/src/simulation/SimulationClock.cpp.o -c /home/garth/solar/src/simulation/SimulationClock.cpp",
+  "file": "/home/garth/solar/src/simulation/SimulationClock.cpp",
+  "output": "CMakeFiles/solar_core.dir/src/simulation/SimulationClock.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -isystem /home/garth/solar/build/_deps/cspice-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astronomy.dir/src/astronomy/BodyDatabase.cpp.o -c /home/garth/solar/src/astronomy/BodyDatabase.cpp",
+  "file": "/home/garth/solar/src/astronomy/BodyDatabase.cpp",
+  "output": "CMakeFiles/solar_astronomy.dir/src/astronomy/BodyDatabase.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -isystem /home/garth/solar/build/_deps/cspice-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astronomy.dir/src/astronomy/CelestialBody.cpp.o -c /home/garth/solar/src/astronomy/CelestialBody.cpp",
+  "file": "/home/garth/solar/src/astronomy/CelestialBody.cpp",
+  "output": "CMakeFiles/solar_astronomy.dir/src/astronomy/CelestialBody.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -isystem /home/garth/solar/build/_deps/cspice-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astronomy.dir/src/astronomy/Ephemeris.cpp.o -c /home/garth/solar/src/astronomy/Ephemeris.cpp",
+  "file": "/home/garth/solar/src/astronomy/Ephemeris.cpp",
+  "output": "CMakeFiles/solar_astronomy.dir/src/astronomy/Ephemeris.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -isystem /home/garth/solar/build/_deps/cspice-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astronomy.dir/src/astronomy/Orientation.cpp.o -c /home/garth/solar/src/astronomy/Orientation.cpp",
+  "file": "/home/garth/solar/src/astronomy/Orientation.cpp",
+  "output": "CMakeFiles/solar_astronomy.dir/src/astronomy/Orientation.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -isystem /home/garth/solar/build/_deps/cspice-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astronomy.dir/src/astronomy/ReferenceFrame.cpp.o -c /home/garth/solar/src/astronomy/ReferenceFrame.cpp",
+  "file": "/home/garth/solar/src/astronomy/ReferenceFrame.cpp",
+  "output": "CMakeFiles/solar_astronomy.dir/src/astronomy/ReferenceFrame.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -isystem /home/garth/solar/build/_deps/cspice-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astronomy.dir/src/astronomy/SpiceContext.cpp.o -c /home/garth/solar/src/astronomy/SpiceContext.cpp",
+  "file": "/home/garth/solar/src/astronomy/SpiceContext.cpp",
+  "output": "CMakeFiles/solar_astronomy.dir/src/astronomy/SpiceContext.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_app_config.dir/src/app/AppConfig.cpp.o -c /home/garth/solar/src/app/AppConfig.cpp",
+  "file": "/home/garth/solar/src/app/AppConfig.cpp",
+  "output": "CMakeFiles/solar_app_config.dir/src/app/AppConfig.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Angles.cpp.o -c /home/garth/solar/src/astrodynamics/Angles.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/Angles.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Angles.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Hohmann.cpp.o -c /home/garth/solar/src/astrodynamics/Hohmann.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/Hohmann.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Hohmann.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Kepler.cpp.o -c /home/garth/solar/src/astrodynamics/Kepler.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/Kepler.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Kepler.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Maneuver.cpp.o -c /home/garth/solar/src/astrodynamics/Maneuver.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/Maneuver.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Maneuver.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/ManeuverFrame.cpp.o -c /home/garth/solar/src/astrodynamics/ManeuverFrame.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/ManeuverFrame.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/ManeuverFrame.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Orbit.cpp.o -c /home/garth/solar/src/astrodynamics/Orbit.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/Orbit.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/Orbit.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OrbitConversions.cpp.o -c /home/garth/solar/src/astrodynamics/OrbitConversions.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/OrbitConversions.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OrbitConversions.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OsculatingOrbit.cpp.o -c /home/garth/solar/src/astrodynamics/OsculatingOrbit.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/OsculatingOrbit.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OsculatingOrbit.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OrbitalElements.cpp.o -c /home/garth/solar/src/astrodynamics/OrbitalElements.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/OrbitalElements.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OrbitalElements.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OrbitalMechanics.cpp.o -c /home/garth/solar/src/astrodynamics/OrbitalMechanics.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/OrbitalMechanics.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OrbitalMechanics.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OrbitPropagation.cpp.o -c /home/garth/solar/src/astrodynamics/OrbitPropagation.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/OrbitPropagation.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/OrbitPropagation.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/PlaneChange.cpp.o -c /home/garth/solar/src/astrodynamics/PlaneChange.cpp",
+  "file": "/home/garth/solar/src/astrodynamics/PlaneChange.cpp",
+  "output": "CMakeFiles/solar_astrodynamics.dir/src/astrodynamics/PlaneChange.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/Burn.cpp.o -c /home/garth/solar/src/rocket/Burn.cpp",
+  "file": "/home/garth/solar/src/rocket/Burn.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/Burn.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/DeltaV.cpp.o -c /home/garth/solar/src/rocket/DeltaV.cpp",
+  "file": "/home/garth/solar/src/rocket/DeltaV.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/DeltaV.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/Engine.cpp.o -c /home/garth/solar/src/rocket/Engine.cpp",
+  "file": "/home/garth/solar/src/rocket/Engine.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/Engine.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/EngineDatabase.cpp.o -c /home/garth/solar/src/rocket/EngineDatabase.cpp",
+  "file": "/home/garth/solar/src/rocket/EngineDatabase.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/EngineDatabase.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/MassFlow.cpp.o -c /home/garth/solar/src/rocket/MassFlow.cpp",
+  "file": "/home/garth/solar/src/rocket/MassFlow.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/MassFlow.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/Propellant.cpp.o -c /home/garth/solar/src/rocket/Propellant.cpp",
+  "file": "/home/garth/solar/src/rocket/Propellant.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/Propellant.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/RocketAnalysis.cpp.o -c /home/garth/solar/src/rocket/RocketAnalysis.cpp",
+  "file": "/home/garth/solar/src/rocket/RocketAnalysis.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/RocketAnalysis.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/Stage.cpp.o -c /home/garth/solar/src/rocket/Stage.cpp",
+  "file": "/home/garth/solar/src/rocket/Stage.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/Stage.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/TWR.cpp.o -c /home/garth/solar/src/rocket/TWR.cpp",
+  "file": "/home/garth/solar/src/rocket/TWR.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/TWR.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/Vehicle.cpp.o -c /home/garth/solar/src/rocket/Vehicle.cpp",
+  "file": "/home/garth/solar/src/rocket/Vehicle.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/Vehicle.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_rocket.dir/src/rocket/VehicleDatabase.cpp.o -c /home/garth/solar/src/rocket/VehicleDatabase.cpp",
+  "file": "/home/garth/solar/src/rocket/VehicleDatabase.cpp",
+  "output": "CMakeFiles/solar_rocket.dir/src/rocket/VehicleDatabase.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_simulation.dir/src/simulation/OrbitVisualization.cpp.o -c /home/garth/solar/src/simulation/OrbitVisualization.cpp",
+  "file": "/home/garth/solar/src/simulation/OrbitVisualization.cpp",
+  "output": "CMakeFiles/solar_simulation.dir/src/simulation/OrbitVisualization.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_simulation.dir/src/simulation/Spacecraft.cpp.o -c /home/garth/solar/src/simulation/Spacecraft.cpp",
+  "file": "/home/garth/solar/src/simulation/Spacecraft.cpp",
+  "output": "CMakeFiles/solar_simulation.dir/src/simulation/Spacecraft.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_simulation.dir/src/simulation/SpacecraftState.cpp.o -c /home/garth/solar/src/simulation/SpacecraftState.cpp",
+  "file": "/home/garth/solar/src/simulation/SpacecraftState.cpp",
+  "output": "CMakeFiles/solar_simulation.dir/src/simulation/SpacecraftState.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_scene.dir/src/scene/RenderTransform.cpp.o -c /home/garth/solar/src/scene/RenderTransform.cpp",
+  "file": "/home/garth/solar/src/scene/RenderTransform.cpp",
+  "output": "CMakeFiles/solar_scene.dir/src/scene/RenderTransform.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_scene.dir/src/scene/Scene.cpp.o -c /home/garth/solar/src/scene/Scene.cpp",
+  "file": "/home/garth/solar/src/scene/Scene.cpp",
+  "output": "CMakeFiles/solar_scene.dir/src/scene/Scene.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_scene.dir/src/scene/SolarSystemScene.cpp.o -c /home/garth/solar/src/scene/SolarSystemScene.cpp",
+  "file": "/home/garth/solar/src/scene/SolarSystemScene.cpp",
+  "output": "CMakeFiles/solar_scene.dir/src/scene/SolarSystemScene.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/BodyPicker.cpp.o -c /home/garth/solar/src/renderer/BodyPicker.cpp",
+  "file": "/home/garth/solar/src/renderer/BodyPicker.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/BodyPicker.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/Camera.cpp.o -c /home/garth/solar/src/renderer/Camera.cpp",
+  "file": "/home/garth/solar/src/renderer/Camera.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/Camera.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/CameraController.cpp.o -c /home/garth/solar/src/renderer/CameraController.cpp",
+  "file": "/home/garth/solar/src/renderer/CameraController.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/CameraController.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/Framebuffer.cpp.o -c /home/garth/solar/src/renderer/Framebuffer.cpp",
+  "file": "/home/garth/solar/src/renderer/Framebuffer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/Framebuffer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/GridRenderer.cpp.o -c /home/garth/solar/src/renderer/GridRenderer.cpp",
+  "file": "/home/garth/solar/src/renderer/GridRenderer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/GridRenderer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/Mesh.cpp.o -c /home/garth/solar/src/renderer/Mesh.cpp",
+  "file": "/home/garth/solar/src/renderer/Mesh.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/Mesh.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/OrbitRenderer.cpp.o -c /home/garth/solar/src/renderer/OrbitRenderer.cpp",
+  "file": "/home/garth/solar/src/renderer/OrbitRenderer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/OrbitRenderer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/OrbitalGeometryRenderer.cpp.o -c /home/garth/solar/src/renderer/OrbitalGeometryRenderer.cpp",
+  "file": "/home/garth/solar/src/renderer/OrbitalGeometryRenderer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/OrbitalGeometryRenderer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/PlanetRenderer.cpp.o -c /home/garth/solar/src/renderer/PlanetRenderer.cpp",
+  "file": "/home/garth/solar/src/renderer/PlanetRenderer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/PlanetRenderer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/PrimitiveRenderer.cpp.o -c /home/garth/solar/src/renderer/PrimitiveRenderer.cpp",
+  "file": "/home/garth/solar/src/renderer/PrimitiveRenderer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/PrimitiveRenderer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/Renderer.cpp.o -c /home/garth/solar/src/renderer/Renderer.cpp",
+  "file": "/home/garth/solar/src/renderer/Renderer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/Renderer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/Shader.cpp.o -c /home/garth/solar/src/renderer/Shader.cpp",
+  "file": "/home/garth/solar/src/renderer/Shader.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/Shader.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/SpacecraftRenderer.cpp.o -c /home/garth/solar/src/renderer/SpacecraftRenderer.cpp",
+  "file": "/home/garth/solar/src/renderer/SpacecraftRenderer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/SpacecraftRenderer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_renderer.dir/src/renderer/TrajectoryRenderer.cpp.o -c /home/garth/solar/src/renderer/TrajectoryRenderer.cpp",
+  "file": "/home/garth/solar/src/renderer/TrajectoryRenderer.cpp",
+  "output": "CMakeFiles/solar_renderer.dir/src/renderer/TrajectoryRenderer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/ConsolePanel.cpp.o -c /home/garth/solar/src/ui/ConsolePanel.cpp",
+  "file": "/home/garth/solar/src/ui/ConsolePanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/ConsolePanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/AstronomyPanel.cpp.o -c /home/garth/solar/src/ui/AstronomyPanel.cpp",
+  "file": "/home/garth/solar/src/ui/AstronomyPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/AstronomyPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/BodyInspectorPanel.cpp.o -c /home/garth/solar/src/ui/BodyInspectorPanel.cpp",
+  "file": "/home/garth/solar/src/ui/BodyInspectorPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/BodyInspectorPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/Dockspace.cpp.o -c /home/garth/solar/src/ui/Dockspace.cpp",
+  "file": "/home/garth/solar/src/ui/Dockspace.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/Dockspace.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/Gui.cpp.o -c /home/garth/solar/src/ui/Gui.cpp",
+  "file": "/home/garth/solar/src/ui/Gui.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/Gui.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/InspectorPanel.cpp.o -c /home/garth/solar/src/ui/InspectorPanel.cpp",
+  "file": "/home/garth/solar/src/ui/InspectorPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/InspectorPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/ManeuverPanel.cpp.o -c /home/garth/solar/src/ui/ManeuverPanel.cpp",
+  "file": "/home/garth/solar/src/ui/ManeuverPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/ManeuverPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/OrbitPanel.cpp.o -c /home/garth/solar/src/ui/OrbitPanel.cpp",
+  "file": "/home/garth/solar/src/ui/OrbitPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/OrbitPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/RocketPanel.cpp.o -c /home/garth/solar/src/ui/RocketPanel.cpp",
+  "file": "/home/garth/solar/src/ui/RocketPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/RocketPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/StagePanel.cpp.o -c /home/garth/solar/src/ui/StagePanel.cpp",
+  "file": "/home/garth/solar/src/ui/StagePanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/StagePanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/EnginePanel.cpp.o -c /home/garth/solar/src/ui/EnginePanel.cpp",
+  "file": "/home/garth/solar/src/ui/EnginePanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/EnginePanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/SolarSystemPanel.cpp.o -c /home/garth/solar/src/ui/SolarSystemPanel.cpp",
+  "file": "/home/garth/solar/src/ui/SolarSystemPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/SolarSystemPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/SpacecraftPanel.cpp.o -c /home/garth/solar/src/ui/SpacecraftPanel.cpp",
+  "file": "/home/garth/solar/src/ui/SpacecraftPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/SpacecraftPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/TimePanel.cpp.o -c /home/garth/solar/src/ui/TimePanel.cpp",
+  "file": "/home/garth/solar/src/ui/TimePanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/TimePanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_ui.dir/src/ui/ViewportPanel.cpp.o -c /home/garth/solar/src/ui/ViewportPanel.cpp",
+  "file": "/home/garth/solar/src/ui/ViewportPanel.cpp",
+  "output": "CMakeFiles/solar_ui.dir/src/ui/ViewportPanel.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar.dir/src/main.cpp.o -c /home/garth/solar/src/main.cpp",
+  "file": "/home/garth/solar/src/main.cpp",
+  "output": "CMakeFiles/solar.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar.dir/src/app/Application.cpp.o -c /home/garth/solar/src/app/Application.cpp",
+  "file": "/home/garth/solar/src/app/Application.cpp",
+  "output": "CMakeFiles/solar.dir/src/app/Application.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DIMGUI_IMPL_OPENGL_LOADER_GLAD2 -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -isystem /home/garth/solar/build/_deps/imgui-src -isystem /home/garth/solar/build/_deps/imgui-src/backends -isystem /home/garth/solar/build/_deps/implot-src -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar.dir/src/app/AppState.cpp.o -c /home/garth/solar/src/app/AppState.cpp",
+  "file": "/home/garth/solar/src/app/AppState.cpp",
+  "output": "CMakeFiles/solar.dir/src/app/AppState.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_main.cpp.o -c /home/garth/solar/tests/test_main.cpp",
+  "file": "/home/garth/solar/tests/test_main.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_main.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_body_database.cpp.o -c /home/garth/solar/tests/test_body_database.cpp",
+  "file": "/home/garth/solar/tests/test_body_database.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_body_database.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_body_picker.cpp.o -c /home/garth/solar/tests/test_body_picker.cpp",
+  "file": "/home/garth/solar/tests/test_body_picker.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_body_picker.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_camera.cpp.o -c /home/garth/solar/tests/test_camera.cpp",
+  "file": "/home/garth/solar/tests/test_camera.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_camera.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_camera_input.cpp.o -c /home/garth/solar/tests/test_camera_input.cpp",
+  "file": "/home/garth/solar/tests/test_camera_input.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_camera_input.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_config.cpp.o -c /home/garth/solar/tests/test_config.cpp",
+  "file": "/home/garth/solar/tests/test_config.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_config.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_ephemeris.cpp.o -c /home/garth/solar/tests/test_ephemeris.cpp",
+  "file": "/home/garth/solar/tests/test_ephemeris.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_ephemeris.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_hohmann.cpp.o -c /home/garth/solar/tests/test_hohmann.cpp",
+  "file": "/home/garth/solar/tests/test_hohmann.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_hohmann.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_kepler.cpp.o -c /home/garth/solar/tests/test_kepler.cpp",
+  "file": "/home/garth/solar/tests/test_kepler.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_kepler.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_maneuver.cpp.o -c /home/garth/solar/tests/test_maneuver.cpp",
+  "file": "/home/garth/solar/tests/test_maneuver.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_maneuver.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_orbit_conversions.cpp.o -c /home/garth/solar/tests/test_orbit_conversions.cpp",
+  "file": "/home/garth/solar/tests/test_orbit_conversions.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_orbit_conversions.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_orbital_mechanics.cpp.o -c /home/garth/solar/tests/test_orbital_mechanics.cpp",
+  "file": "/home/garth/solar/tests/test_orbital_mechanics.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_orbital_mechanics.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_planetary_orbits.cpp.o -c /home/garth/solar/tests/test_planetary_orbits.cpp",
+  "file": "/home/garth/solar/tests/test_planetary_orbits.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_planetary_orbits.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_plane_change.cpp.o -c /home/garth/solar/tests/test_plane_change.cpp",
+  "file": "/home/garth/solar/tests/test_plane_change.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_plane_change.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_propagation.cpp.o -c /home/garth/solar/tests/test_propagation.cpp",
+  "file": "/home/garth/solar/tests/test_propagation.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_propagation.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_reference_frames.cpp.o -c /home/garth/solar/tests/test_reference_frames.cpp",
+  "file": "/home/garth/solar/tests/test_reference_frames.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_reference_frames.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_engine.cpp.o -c /home/garth/solar/tests/test_engine.cpp",
+  "file": "/home/garth/solar/tests/test_engine.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_engine.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_stage.cpp.o -c /home/garth/solar/tests/test_stage.cpp",
+  "file": "/home/garth/solar/tests/test_stage.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_stage.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_vehicle.cpp.o -c /home/garth/solar/tests/test_vehicle.cpp",
+  "file": "/home/garth/solar/tests/test_vehicle.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_vehicle.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_delta_v.cpp.o -c /home/garth/solar/tests/test_delta_v.cpp",
+  "file": "/home/garth/solar/tests/test_delta_v.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_delta_v.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_twr.cpp.o -c /home/garth/solar/tests/test_twr.cpp",
+  "file": "/home/garth/solar/tests/test_twr.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_twr.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_mass_flow.cpp.o -c /home/garth/solar/tests/test_mass_flow.cpp",
+  "file": "/home/garth/solar/tests/test_mass_flow.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_mass_flow.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_burn.cpp.o -c /home/garth/solar/tests/test_burn.cpp",
+  "file": "/home/garth/solar/tests/test_burn.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_burn.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_rocket_analysis.cpp.o -c /home/garth/solar/tests/test_rocket_analysis.cpp",
+  "file": "/home/garth/solar/tests/test_rocket_analysis.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_rocket_analysis.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_simulation_clock.cpp.o -c /home/garth/solar/tests/test_simulation_clock.cpp",
+  "file": "/home/garth/solar/tests/test_simulation_clock.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_simulation_clock.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_spice.cpp.o -c /home/garth/solar/tests/test_spice.cpp",
+  "file": "/home/garth/solar/tests/test_spice.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_spice.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_spacecraft.cpp.o -c /home/garth/solar/tests/test_spacecraft.cpp",
+  "file": "/home/garth/solar/tests/test_spacecraft.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_spacecraft.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build",
+  "command": "/usr/bin/c++ -DSOLAR_TEST_KERNEL_DIR=\\\"/home/garth/solar/assets/kernels\\\" -DSPDLOG_COMPILED_LIB -I/home/garth/solar/src -I/home/garth/solar/build/_deps/nlohmann_json-src/include -I/home/garth/solar/build/_deps/spdlog-src/include -I/home/garth/solar/build/_deps/glm-src -I/home/garth/solar/build/gladsources/glad_gl_core_46/include -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -Wall -Wextra -Wpedantic -Wconversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -o CMakeFiles/solar_tests.dir/tests/test_time.cpp.o -c /home/garth/solar/tests/test_time.cpp",
+  "file": "/home/garth/solar/tests/test_time.cpp",
+  "output": "CMakeFiles/solar_tests.dir/tests/test_time.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/context.c.o -c /home/garth/solar/build/_deps/glfw-src/src/context.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/init.c.o -c /home/garth/solar/build/_deps/glfw-src/src/init.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/input.c.o -c /home/garth/solar/build/_deps/glfw-src/src/input.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/input.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c /home/garth/solar/build/_deps/glfw-src/src/monitor.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/platform.c.o -c /home/garth/solar/build/_deps/glfw-src/src/platform.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/platform.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c /home/garth/solar/build/_deps/glfw-src/src/vulkan.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/vulkan.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/window.c.o -c /home/garth/solar/build/_deps/glfw-src/src/window.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c /home/garth/solar/build/_deps/glfw-src/src/egl_context.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/egl_context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/garth/solar/build/_deps/glfw-src/src/osmesa_context.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/osmesa_context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_init.c.o -c /home/garth/solar/build/_deps/glfw-src/src/null_init.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/null_init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_monitor.c.o -c /home/garth/solar/build/_deps/glfw-src/src/null_monitor.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/null_monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_window.c.o -c /home/garth/solar/build/_deps/glfw-src/src/null_window.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/null_window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_joystick.c.o -c /home/garth/solar/build/_deps/glfw-src/src/null_joystick.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/null_joystick.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_module.c.o -c /home/garth/solar/build/_deps/glfw-src/src/posix_module.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/posix_module.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_time.c.o -c /home/garth/solar/build/_deps/glfw-src/src/posix_time.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/posix_time.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_time.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c /home/garth/solar/build/_deps/glfw-src/src/posix_thread.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/posix_thread.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_init.c.o -c /home/garth/solar/build/_deps/glfw-src/src/x11_init.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/x11_init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_init.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/garth/solar/build/_deps/glfw-src/src/x11_monitor.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/x11_monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_window.c.o -c /home/garth/solar/build/_deps/glfw-src/src/x11_window.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/x11_window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_window.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/garth/solar/build/_deps/glfw-src/src/xkb_unicode.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/xkb_unicode.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/glx_context.c.o -c /home/garth/solar/build/_deps/glfw-src/src/glx_context.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/glx_context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/glx_context.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_init.c.o -c /home/garth/solar/build/_deps/glfw-src/src/wl_init.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/wl_init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_init.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_monitor.c.o -c /home/garth/solar/build/_deps/glfw-src/src/wl_monitor.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/wl_monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_monitor.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_window.c.o -c /home/garth/solar/build/_deps/glfw-src/src/wl_window.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/wl_window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_window.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/garth/solar/build/_deps/glfw-src/src/linux_joystick.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/linux_joystick.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glfw-build/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/garth/solar/build/_deps/glfw-src/include -I/home/garth/solar/build/_deps/glfw-src/src -I/home/garth/solar/build/_deps/glfw-build/src -g -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_poll.c.o -c /home/garth/solar/build/_deps/glfw-src/src/posix_poll.c",
+  "file": "/home/garth/solar/build/_deps/glfw-src/src/posix_poll.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_poll.c.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/glm-build/glm",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/glm-src -g -std=c++20 -o CMakeFiles/glm.dir/detail/glm.cpp.o -c /home/garth/solar/build/_deps/glm-src/glm/detail/glm.cpp",
+  "file": "/home/garth/solar/build/_deps/glm-src/glm/detail/glm.cpp",
+  "output": "_deps/glm-build/glm/CMakeFiles/glm.dir/detail/glm.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /home/garth/solar/build/_deps/spdlog-src/src/spdlog.cpp",
+  "file": "/home/garth/solar/build/_deps/spdlog-src/src/spdlog.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /home/garth/solar/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "file": "/home/garth/solar/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /home/garth/solar/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "file": "/home/garth/solar/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /home/garth/solar/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "file": "/home/garth/solar/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /home/garth/solar/build/_deps/spdlog-src/src/async.cpp",
+  "file": "/home/garth/solar/build/_deps/spdlog-src/src/async.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /home/garth/solar/build/_deps/spdlog-src/src/cfg.cpp",
+  "file": "/home/garth/solar/build/_deps/spdlog-src/src/cfg.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FWRITE_UNLOCKED -I/home/garth/solar/build/_deps/spdlog-src/include -g -std=c++20 -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /home/garth/solar/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "file": "/home/garth/solar/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/catch_chronometer.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/catch_chronometer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_analyse.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_analyse.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_analyse.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_analyse.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_benchmark_function.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_benchmark_function.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_run_for_at_least.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_run_for_at_least.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_stats.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_stats.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/generators/catch_generator_exception.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/generators/catch_generator_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/generators/catch_generators.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/generators/catch_generators.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/generators/catch_generators_random.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/generators/catch_generators_random.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_automake.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_automake.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_common_base.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_common_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_compact.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_compact.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_console.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_console.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_cumulative_base.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_cumulative_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_event_listener.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_event_listener.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_helpers.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_helpers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_json.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_json.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_json.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_json.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_junit.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_junit.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_multi.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_multi.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_registrars.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_registrars.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_sonarqube.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_sonarqube.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_streaming_base.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_streaming_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_tap.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_tap.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_teamcity.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_teamcity.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_xml.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_xml.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_capture.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_capture.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_config.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_config.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_exception.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_generatortracker.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_generatortracker.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_registry_hub.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_registry_hub.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter_factory.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter_factory.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_testcase.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_testcase.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_approx.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_approx.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_assertion_result.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_assertion_result.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_config.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_config.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_get_random_seed.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_get_random_seed.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_message.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_message.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_registry_hub.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_registry_hub.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_session.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_session.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_tag_alias_autoregistrar.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_tag_alias_autoregistrar.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_test_case_info.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_test_case_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_test_spec.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_test_spec.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_timer.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_timer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_tostring.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_tostring.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_totals.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_totals.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_translate_exception.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_translate_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/catch_version.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/catch_version.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_assertion_handler.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_assertion_handler.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_case_insensitive_comparisons.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_case_insensitive_comparisons.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_clara.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_clara.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_commandline.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_commandline.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_console_colour.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_console_colour.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_context.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_context.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_debug_console.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_debug_console.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_debugger.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_debugger.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_decomposer.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_decomposer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_enforce.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_enforce.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_enum_values_registry.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_enum_values_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_errno_guard.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_errno_guard.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_exception_translator_registry.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_exception_translator_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_fatal_condition_handler.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_fatal_condition_handler.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_floating_point_helpers.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_floating_point_helpers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_getenv.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_getenv.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_istream.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_istream.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_jsonwriter.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_jsonwriter.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_jsonwriter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_jsonwriter.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_lazy_expr.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_lazy_expr.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_leak_detector.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_leak_detector.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_list.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_list.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_message_info.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_message_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_output_redirect.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_output_redirect.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_parse_numbers.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_parse_numbers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_polyfills.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_polyfills.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_random_number_generator.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_random_number_generator.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_random_seed_generation.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_random_seed_generation.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_reporter_registry.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_reporter_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_reporter_spec_parser.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_reporter_spec_parser.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_reusable_string_stream.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_reusable_string_stream.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_run_context.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_run_context.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_section.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_section.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_singletons.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_singletons.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_source_line_info.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_source_line_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_startup_exception_registry.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_startup_exception_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_stdstreams.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_stdstreams.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_string_manip.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_string_manip.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_stringref.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_stringref.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_tag_alias_registry.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_tag_alias_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_case_info_hasher.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_case_info_hasher.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_case_registry_impl.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_case_registry_impl.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_case_tracker.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_case_tracker.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_failure_exception.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_failure_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_registry.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_spec_parser.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_test_spec_parser.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_textflow.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_textflow.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_uncaught_exceptions.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_uncaught_exceptions.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_wildcard_pattern.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_wildcard_pattern.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_xmlwriter.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_xmlwriter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_container_properties.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_container_properties.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_exception.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_floating_point.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_floating_point.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_predicate.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_predicate.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_quantifiers.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_quantifiers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_string.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_string.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_templated.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_templated.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/internal/catch_matchers_impl.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/matchers/internal/catch_matchers_impl.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o"
+},
+{
+  "directory": "/home/garth/solar/build/_deps/catch2-build/src",
+  "command": "/usr/bin/c++  -I/home/garth/solar/build/_deps/catch2-src/src/catch2/.. -I/home/garth/solar/build/_deps/catch2-build/generated-includes -g -std=c++20 -ffile-prefix-map=/home/garth/solar/build/_deps/catch2-src/= -o CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o -c /home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_main.cpp",
+  "file": "/home/garth/solar/build/_deps/catch2-src/src/catch2/internal/catch_main.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o"
+}
+]

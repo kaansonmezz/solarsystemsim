@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsolar_astronomy.a CMakeFiles/solar_astronomy.dir/src/astronomy/BodyDatabase.cpp.o CMakeFiles/solar_astronomy.dir/src/astronomy/CelestialBody.cpp.o CMakeFiles/solar_astronomy.dir/src/astronomy/Ephemeris.cpp.o CMakeFiles/solar_astronomy.dir/src/astronomy/Orientation.cpp.o CMakeFiles/solar_astronomy.dir/src/astronomy/ReferenceFrame.cpp.o CMakeFiles/solar_astronomy.dir/src/astronomy/SpiceContext.cpp.o
+/usr/bin/ranlib libsolar_astronomy.a

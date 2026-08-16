@@ -1,0 +1,3 @@
+/home/garth/solar/build/_deps/cspice-subbuild/CMakeFiles/cspice-populate.dir
+/home/garth/solar/build/_deps/cspice-subbuild/CMakeFiles/edit_cache.dir
+/home/garth/solar/build/_deps/cspice-subbuild/CMakeFiles/rebuild_cache.dir

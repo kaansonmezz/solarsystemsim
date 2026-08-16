@@ -1,0 +1,21 @@
+# ninja log v7
+0	13	1786746132022182633	glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	f0351531c1d3b2f4
+0	13	1786746132022182633	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	f0351531c1d3b2f4
+13	3763	1786746135773182747	glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	f1716795ebb50f45
+13	3763	1786746135773182747	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	f1716795ebb50f45
+3764	3774	1786746135774182747	glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	1ea8c09ed4b83af4
+3764	3774	1786746135774182747	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	1ea8c09ed4b83af4
+3774	3788	1786746135797182748	glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	ea83f54d52757fa0
+3774	3788	1786746135797182748	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	ea83f54d52757fa0
+3788	3800	1786746135809182748	glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	64f1cb6393f26d6c
+3788	3800	1786746135809182748	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	64f1cb6393f26d6c
+3800	3812	1786746135822182749	glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	6f108cc59816341d
+3800	3812	1786746135822182749	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	6f108cc59816341d
+3812	3826	1786746135835182749	glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	1ad6977e55cbc434
+3812	3826	1786746135835182749	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	1ad6977e55cbc434
+3826	3838	1786746135847182749	glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	9de925934b469255
+3826	3838	1786746135847182749	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	9de925934b469255
+3838	3855	1786746135864182750	CMakeFiles/glad-populate-complete	36286736a505e43e
+3838	3855	1786746135864182750	glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	36286736a505e43e
+3838	3855	1786746135864182750	/home/garth/solar/build-test/_deps/glad-subbuild/CMakeFiles/glad-populate-complete	36286736a505e43e
+3838	3855	1786746135864182750	/home/garth/solar/build-test/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	36286736a505e43e
